@@ -2,7 +2,7 @@
 
 <div id="header" align="center">
   <h2>
-      hey there
+      Hey there
       <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h2>
   <p>:writing_hand: Igor Rosa Filgueiras Pinto</p>
@@ -24,9 +24,10 @@
   <div id="about">
   <h1>:man_technologist: About me:</h1>
   <ul>
-    <li> :mortar_board: Bachelor of Information Systems </li>
-    <li> :open_book: In my free time I love read books </li>
-    <li> :pushpin: I'm working on a scientific initiation project and on city hall of Juiz de Fora </li>
+    <li> :mortar_board: Bachelor of Computer Information Systems </li>
+    <li> :open_book: In my free time I love to read books </li>
+    <li> :pushpin: Researcher on a scientific project</li>
+    <li> :pushpin: Intern for a project for the Juiz de Fora city hall</li>
     <li> :chart_with_upwards_trend: Getting better everyday </li>
   </ul>
   </div id="languages-tools">
